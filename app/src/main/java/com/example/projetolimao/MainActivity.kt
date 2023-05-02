@@ -60,7 +60,7 @@ fun appLimonada() {
             modifier = Modifier
                 .size(400.dp)
                 .border(
-                    BorderStroke(2.dp, Color.Cyan),
+                    BorderStroke(2.dp, Color.Black),
                     RoundedCornerShape(5.dp)
                 )
         )
